@@ -39,7 +39,7 @@ The tutorial will take place on March 20th, 2024.
     * Model and Data Evaluation 
         * Rethinking Leaderboards
         * Features Related to Difficulty
-* Advanced Topics and Opportunities for Future Work (45 minutes)
+* Advanced Topics and Opportunities for Future Work
 
 
 ## Material
