@@ -69,6 +69,6 @@ If you build on top of this tutorial and want to cite it, please use the followi
                   subjects and estimate latent characteristics of dataset examples.
                   Recently, there has been an uptick in work applying IRT to tasks in NLP.
                   It is our goal to introduce the wider NLP community to IRT and show its benefits for a number of NLP tasks. 
-                  From this tutorial, we hope to encourage wider adoption of IRT among NLP researchers.
+                  From this tutorial, we hope to encourage wider adoption of IRT among NLP researchers."
 }
 ```
