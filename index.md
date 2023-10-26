@@ -35,7 +35,7 @@ If you build on top of this tutorial and want to cite it, please use the followi
 ```
 @inproceedings{irt4nlp2024,
   title =        "Item Response Theory for Natural Language Processing",
-  author =       "\v{S}tajner, Sanja and Klinger, Roman",
+  author =       "Lalor, John P. and Rodriguez, Pedro and Sedoc, Joao and Hernandez-Orallo, Jose",
   booktitle =    "Proceedings of the 18th Conference of the European
                   Chapter of the Association for Computational
                   Linguistics: Tutorial Abstracts",
