@@ -12,8 +12,9 @@ Welcome to our tutorial!
 
 * [John Lalor](https://jplalor.github.io)
 * [Pedro Rodriguez](https://www.pedro.ai/)
-* [Joao Sedoc](https://jplalor.github.io)
-* [Jose Hernandez-Orallo](https://www.pedro.ai/)
+* [Joao Sedoc](https://www.stern.nyu.edu/faculty/bio/joao-sedoc)
+* [Jose Hernandez-Orallo](https://josephorallo.webs.upv.es/)
+
 
 
 ## Date and Place
@@ -21,6 +22,24 @@ Welcome to our tutorial!
 The tutorial will take place on March 20th, 2024. 
 
 # Tentative Schedule
+
+
+* Evaluation in NLP
+* Introduction to IRT
+    * Defining IRT Models
+    * IRT Model Fitting
+    * Introduction to py-irt
+* IRT in NLP 
+    * Building Test Sets
+        * Model Evaluation
+        * Chatbot Evaluation
+    * Training Dynamics
+        * Example Mining
+        * Curriculum Learning
+    * Model and Data Evaluation 
+        * Rethinking Leaderboards
+        * Features Related to Difficulty
+* Advanced Topics and Opportunities for Future Work (45 minutes)
 
 
 ## Material
