@@ -64,11 +64,14 @@ If you build on top of this tutorial and want to cite it, please use the followi
   publisher =    "Association for Computational Linguistics",
   abstract =     "This tutorial will introduce the NLP community to
                   Item Response Theory (IRT). IRT is a method from
-                  the field of psychometrics for model and dataset assessment. 
-                  IRT has been used for decades to build test sets for human
-                  subjects and estimate latent characteristics of dataset examples.
-                  Recently, there has been an uptick in work applying IRT to tasks in NLP.
-                  It is our goal to introduce the wider NLP community to IRT and show its benefits for a number of NLP tasks. 
-                  From this tutorial, we hope to encourage wider adoption of IRT among NLP researchers."
+                  the field of psychometrics for model and dataset
+                  assessment. IRT has been used for decades to build
+                  test sets for human subjects and estimate latent
+                  characteristics of dataset examples. Recently, there
+                  has been an uptick in work applying IRT to tasks in
+                  NLP. It is our goal to introduce the wider NLP
+                  community to IRT and show its benefits for a number
+                  of NLP tasks. From this tutorial, we hope to encourage
+                  wider adoption of IRT among NLP researchers."
 }
 ```
