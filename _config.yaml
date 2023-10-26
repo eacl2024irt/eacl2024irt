@@ -1,0 +1,8 @@
+title: Item Response Theory for Natural Language Processing
+description: Tutorial at EACL 2024
+remote_theme: mmistakes/so-simple-theme@3.2.0
+plugins:
+- jekyll-remote-theme
+github:
+  is_project_page: false
+show_downloads: false
