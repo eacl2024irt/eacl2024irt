@@ -19,7 +19,7 @@ Welcome to our tutorial!
 
 ## Date and Place
 
-The tutorial will take place on March 20th, 2024. 
+The tutorial will take place on March 21st, 2024. 
 
 # Tentative Schedule
 
