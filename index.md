@@ -61,7 +61,12 @@ The tutorial will take place at [EACL 2024](https://2024.eacl.org/) on March 21s
 
 ## Material
 
-**Coming Soon!**
+These slides are still **under construction**. Please stay tuned for the final versions, which will be uploaded prior to the tutorial.
+
+- Evaluation in NLP: [slides](pdf/1_EvalInNLP.pdf)
+- Introduction to IRT: [slides](pdf/2_IntroToIRT.pdf)
+- IRT in NLP: [slides](pdf/3_IRTinNLP.pdf)
+- Advanced Topics and Opportunities for Future Work: [slides](pdf/4_1_AdvancedTopics.pptx) 
 
 
 ## Reference
