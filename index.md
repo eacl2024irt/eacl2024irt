@@ -67,7 +67,8 @@ These slides are still **under construction**. Please stay tuned for the final v
 - Evaluation in NLP: [slides](pdf/1_EvalInNLP.pdf)
 - Introduction to IRT: [slides](pdf/2_IntroToIRT.pdf)
 - IRT in NLP: [slides](pdf/3_IRTinNLP.pdf)
-- Advanced Topics and Opportunities for Future Work: [slides](pdf/4_1_AdvancedTopics.pdf) 
+- Advanced Topics: [slides](pdf/4_1_AdvancedTopics.pdf) 
+- Conclusion and Opportunities for Future Work: [slides](pdf/5_Conclusion.pdf)
 - Structured reading list: [pdf](pdf/structured_references.pdf)
 
 
