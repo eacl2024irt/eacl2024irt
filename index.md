@@ -39,7 +39,7 @@ The tutorial will take place at [EACL 2024](https://2024.eacl.org/) on March 21s
 * [Joao Sedoc](https://www.stern.nyu.edu/faculty/bio/joao-sedoc), New York University
 * [Jose Hernandez-Orallo](https://josephorallo.webs.upv.es/), Universitat Politècnica de València and the Leverhulme Centre for the Future of Intelligence, University of Cambridge, UK
 
-# Tentative Schedule
+# Schedule
 
 * Evaluation in NLP
 * Introduction to IRT
