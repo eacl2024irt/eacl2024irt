@@ -63,7 +63,8 @@ The tutorial will take place at [EACL 2024](https://2024.eacl.org/) on March 21s
 
 
 
-- Evaluation in NLP: [slides](pdf/1_EvalInNLP.pdf)
+- Introduction: [slides](pdf/1_EvalInNLP.pdf)
+- Evaluation in NLP: [slides](pdf/1_1_Evaluation_NLP.pptx)
 - Introduction to IRT: [slides](pdf/2_IntroToIRT.pdf)
     - [ipynb notebook 1](notebooks/2_IntroToIRT.ipynb) ([html export of notebook](notebooks/2_IntroToIRT_jupyter.html))
     - [ipynb notebook 2](notebooks/2_pyirt_example.ipynb) ([html export of notebook](notebooks/2_pyirt_example.html))
