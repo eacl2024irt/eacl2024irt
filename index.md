@@ -26,11 +26,15 @@ We will also introduce and demonstrate the py-irt Python package for IRT model-f
 While this methodology has been applied successfully to NLP applications, further community exposure specifically for graduate students may provide a new methodological perspective. 
 We aim to make the tutorial interactive with hands-on Jupyter notebooks which will give concrete simple examples. 
 
+### Stay Connected
 
+We're building a list of individuals interested in working with/learning more about IRT in NLP. 
+
+**Please [fill out this form](https://forms.gle/GRXo3wHfesc47ugw5) if you'd like to be part of the community.**
 
 ## Date and Place
 
-The tutorial will take place at [EACL 2024](https://2024.eacl.org/) on March 21st, 2024. 
+The tutorial took place at [EACL 2024](https://2024.eacl.org/) on March 21st, 2024. 
 
 ## Speakers
 
@@ -61,7 +65,7 @@ The tutorial will take place at [EACL 2024](https://2024.eacl.org/) on March 21s
 
 ## Material
 
-
+We'll be posting a video of the tutorial soon. Stay tuned!
 
 - Introduction: [slides](pdf/0_Welcome.pdf)
 - Evaluation in NLP: [slides](pdf/1_EvalInNLP.pdf)
