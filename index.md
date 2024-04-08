@@ -65,7 +65,12 @@ The tutorial took place at [EACL 2024](https://2024.eacl.org/) on March 21st, 20
 
 ## Material
 
-We'll be posting a video of the tutorial soon. Stay tuned!
+### Tutorial Recording
+
+{% include youtube.html id="BJ7QumB30iI" %}
+
+
+### Presentation Materials
 
 - Introduction: [slides](pdf/0_Welcome.pdf)
 - Evaluation in NLP: [slides](pdf/1_EvalInNLP.pdf)
